@@ -15,13 +15,14 @@
     "child_process": false
   },
   "devDependencies": {
-    "node-sass": "^5.0.0",
     "html-webpack-plugin": "^3.0.7",
-    "webpack": "^4.2.0",
+    "node-sass": "^5.0.0",
+    "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.1.1"
+    "webpack-dev-server": "^3.11.3"
   },
   "dependencies": {
+    "firebase": "^9.9.1",
     "sweetalert": "^2.1.2"
   }
 }
